@@ -33,8 +33,7 @@ document.write('                  </button>');
 */
 
 document.write('<a class="navbar-brand" href="index.html">');
-document.write('<h1><img src="images/logo.png" alt="logo""></h1>');
-//document.write('<h1>Ana Vega</h1>');
+document.write('<img src="images/logo.png" alt="logo" width=100px>');
 document.write('</a>');
 document.write('              </div>');/*end navbar-header*/
 
