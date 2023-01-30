@@ -36,6 +36,7 @@ document.write('<a class="navbar-brand" href="index.html">');
 document.write('<img src="images/logo.png" alt="logo" width=100px>');
 document.write('</a>');
 document.write('              </div>');/*end navbar-header*/
+document.write('<h2>LHC</h2>');
 
 /*
 document.write('              <div class="collapse navbar-collapse">');
