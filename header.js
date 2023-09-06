@@ -2,23 +2,25 @@
 document.write('<header id="header">');
 
 /****** BOTONERA ******/
+/*
 document.write('      <div class="container">');
 document.write('          <div class="row">');
 document.write('              <div class="col-sm-12 overflow">');
 document.write('                 <div class="social-icons pull-right">');
 document.write('                      <ul class="nav nav-pills">');
-/*
+
 document.write('      <li><a href=""><i class="fa fa-facebook"></i></a></li>');
 document.write('      <li><a href=""><i class="fa fa-twitter"></i></a></li>');
 document.write('      <li><a href=""><i class="fa fa-dribbble"></i></a></li>');
 document.write('      <li><a href=""><i class="fa fa-linkedin"></i></a></li>');
-*/
-document.write('      <li><a href="mailto:lahabitacioncreativa@gmail.com"><i class="fa fa-envelope"></i></a></li>');
+
+document.write('      <li><a href="mailto:@gmail.com"><i class="fa fa-envelope"></i></a></li>');
 document.write('                      </ul>');
 document.write('                  </div>');
 document.write('              </div>');
 document.write('           </div>');
 document.write('      </div>');
+*/
 
 /***** NAVBAR *****/
 document.write('      <div class="navbar navbar-inverse" role="banner">');
@@ -36,7 +38,7 @@ document.write('<a class="navbar-brand" href="index.html">');
 document.write('<img src="images/logo.png" alt="logo" width=100px>');
 document.write('</a>');
 document.write('              </div>');/*end navbar-header*/
-document.write('<h2>LHC</h2>');
+
 
 /*
 document.write('              <div class="collapse navbar-collapse">');
